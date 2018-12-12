@@ -23,9 +23,9 @@ Last week I was unable to complete the media query extensions. This week, a resp
 - HTML
 - CSS
 
-# Screen Grab of Static Comp
+# Screen Grab of Static Comp Provided
 
-![image](https://user-images.githubusercontent.com/40274984/49353061-c8ca2700-f678-11e8-93fa-bab83dfe2309.png)
+<img width="665" alt="comp1-screenshot" src="https://user-images.githubusercontent.com/40274984/49852793-5953e600-fda2-11e8-82c3-f9ad1a19573f.png">
 
 # Screen Grab of the Static Site Created
 
