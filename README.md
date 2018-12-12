@@ -29,7 +29,7 @@ Last week I was unable to complete the media query extensions. This week, a resp
 
 # Screen Grab of the Static Site Created
 
-![image](https://user-images.githubusercontent.com/40274984/49353016-91f41100-f678-11e8-87fa-84d966ce1f32.png)
+![lavarine-comp1-screenshot](https://user-images.githubusercontent.com/40274984/49852839-7b4d6880-fda2-11e8-9260-ca5e48d71bb3.png)
 
 # Shortcomings
 
